@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # coding=utf-8
+# https://wiki.python.org.br/ListaDeExercicios
 import os
 import random
 #AlisonAguiar
